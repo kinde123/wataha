@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/wataha/static/css/main.61915768.css",
+    "main.js": "/wataha/static/js/main.da9dd261.js",
+    "static/js/453.9e13293a.chunk.js": "/wataha/static/js/453.9e13293a.chunk.js",
+    "static/media/rectangle19.jpg": "/wataha/static/media/rectangle19.42320679506e2227f6c0.jpg",
+    "static/media/hero.jpg": "/wataha/static/media/hero.b9545ba6edf6c1d46dc2.jpg",
+    "static/media/logo.jpg": "/wataha/static/media/logo.94f1a91cc2da327c375a.jpg",
+    "index.html": "/wataha/index.html",
+    "main.61915768.css.map": "/wataha/static/css/main.61915768.css.map",
+    "main.da9dd261.js.map": "/wataha/static/js/main.da9dd261.js.map",
+    "453.9e13293a.chunk.js.map": "/wataha/static/js/453.9e13293a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.61915768.css",
+    "static/js/main.da9dd261.js"
+  ]
+}
