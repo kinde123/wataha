@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/wataha/static/css/main.63ec6baf.css",
-    "main.js": "/wataha/static/js/main.90dfc3ca.js",
+    "main.css": "/wataha/static/css/main.585f60c3.css",
+    "main.js": "/wataha/static/js/main.ff320d51.js",
     "static/js/453.9e13293a.chunk.js": "/wataha/static/js/453.9e13293a.chunk.js",
     "static/media/hero.jpg": "/wataha/static/media/hero.cb115ab8471a51798ee2.jpg",
     "static/media/rectangle8.jpg": "/wataha/static/media/rectangle8.be62014b74db2f9d4f54.jpg",
@@ -12,12 +12,12 @@
     "static/media/logo.jpg": "/wataha/static/media/logo.94f1a91cc2da327c375a.jpg",
     "static/media/rectangle10.jpg": "/wataha/static/media/rectangle10.6685c73bd790701bfd08.jpg",
     "index.html": "/wataha/index.html",
-    "main.63ec6baf.css.map": "/wataha/static/css/main.63ec6baf.css.map",
-    "main.90dfc3ca.js.map": "/wataha/static/js/main.90dfc3ca.js.map",
+    "main.585f60c3.css.map": "/wataha/static/css/main.585f60c3.css.map",
+    "main.ff320d51.js.map": "/wataha/static/js/main.ff320d51.js.map",
     "453.9e13293a.chunk.js.map": "/wataha/static/js/453.9e13293a.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.63ec6baf.css",
-    "static/js/main.90dfc3ca.js"
+    "static/css/main.585f60c3.css",
+    "static/js/main.ff320d51.js"
   ]
 }
